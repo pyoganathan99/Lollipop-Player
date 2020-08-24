@@ -5,12 +5,12 @@
 </template>
 <style>
 .vuesax-logo {
-  width: 100%;
-  max-width: 170px;
+    width: 100%;
+    max-width: 170px;
 }
 
 .vuesax-logo svg {
-  width: 100%;
-  fill: #35495e;
+    width: 100%;
+    fill: #35495e;
 }
 </style>
